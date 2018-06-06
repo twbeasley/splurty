@@ -1,5 +1,6 @@
 @import "bootstrap";
 
+  
 .clear {
   clear: both;
 }
@@ -32,10 +33,22 @@
   color: black;
  font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
 }
 .header {
   border-top: 9px solid #222222
 }
 .hr {
   clear:both;
+}
+
+.h1 {
+  font-family: 'nobileregular', sans-serif;
+  font-weight: bold;
+  font-size: 48px;
+  letter-spacing: -1.5px;
+}
+.h2 {
+  font-family: 'nobilemedium_italic', sans-serif;
 }
